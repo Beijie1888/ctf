@@ -1,0 +1,22 @@
+# 记录远程仓库资源
+resources:
+  - image: beijie/mark
+    desc: beijie/mark
+    name: beijie/mark
+    resource_type: CTF
+  
+  - image: beijie/babypwn
+    desc: beijie/babypwn
+    name: beijie/babypwn
+    resource_type: CTF
+
+  - image: ctftraining/wdb_2018_unfinish
+    desc: wdb_2018_unfinish
+    name: wdb_2018_unfinish
+    resource_type: CTF
+
+  - image: ctftraining/ciscn_2019_northern_china_day1_web2
+    desc: ciscn_2019_northern_china_day1_web2
+    name: ciscn_2019_northern_china_day1_web2
+    resource_type: CTF
+
